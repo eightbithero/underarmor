@@ -2,27 +2,27 @@
 layout: default
 ---
 
-Under Armor
+# Under Armor
 Homebrew nes game 
 
 <video src="images/video/demo01.mp4" autoplay loop preload></video>
 
-Worklog
+### Worklog
 
-21/12/2017
+- 21/12/2017
 implemented binary tree algorithm for generating mazes
-02/12/2017
+- 02/12/2017
 "bulets" movement + sfx 
-01/12/2017
+- 01/12/2017
 sprite animation
-24/11/2017
+- 24/11/2017
 found out, that huge part of ordered tiles was stolen from other NES-project, cuted it out
-../10/2017
-27/09/2017
+- ../10/2017
+- 27/09/2017
 have been written utilities for converting images and tilemaps for internal NES format
-25/09/2017
+- 25/09/2017
 recieved graphics
-01/09/2017
+- 01/09/2017
 have ordered tiles and sprite graphics
-erlier
+- erlier
 testing 6502 assemblers, utilities, collecting docs, first hello world for nes
