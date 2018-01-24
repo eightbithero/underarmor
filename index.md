@@ -4,11 +4,9 @@ title: Under Armor - NES game homebrew
 ---
 
 # Under Armor
-NES game homebrew
+NES game homebrew [download current rom](files/rom/underarmor.nes)
 
 <video src="images/video/demo01.mp4" autoplay loop preload></video>
-
-[download current rom](files/rom/underarmor.nes)
 
 ### Worklog
 
