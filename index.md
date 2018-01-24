@@ -5,7 +5,7 @@ layout: default
 Under Armor
 Homebrew nes game 
 
-![](images/video/demo01.mp4)
+<video src="images/video/demo01.mp4" autoplay loop preload></video>
 
 Worklog
 
