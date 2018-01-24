@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Under Armor - NES game homebrew
 ---
 
 # Under Armor
