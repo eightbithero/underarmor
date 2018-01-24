@@ -19,7 +19,7 @@ It was interesting journey into the past, to find out how engineers at those tim
 
 Play in good games.
 
-## Current state
+### Current state
 The game development is in process.
 Looking for a good artist and a musician.
 
