@@ -9,7 +9,7 @@ Homebrew NES game [download current build](files/rom/underarmor.nes)
 <video src="images/video/demo01.mp4" autoplay loop preload></video>
 
 ## About the game
-The game is about exploring abyssal mazes. Every game session using level procedure generation is unique. During the NES era there was not any simillar game. The main purpose is to apply modern development approaches and gamedev practices to the old fashioned gaming platform.
+The game is about exploring abyssal mazes. Every game session is unique based on level procedure generation. During the NES era there was not any simillar game. The main purpose is to apply modern development approaches and gamedev practices to the old fashioned gaming platform.
 
 Childhood dream has driven me to make this project alive. During 1980s-1990s in Russia the most common videogame console was bootlegged version of NES called Dendy. The market was mixed up with pirated Japan, Europe and North America releases. However not every game that exists was available. And i have dreamed to make my own game one day.
 The most difficult parts of developing were an overcoming of video hardware limitations, and an understanding of audio unit principles of this architecture.
