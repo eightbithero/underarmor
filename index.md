@@ -6,7 +6,7 @@ title: Under Armor - Homebrew NES game
 # Under Armor
 Homebrew NES game [download current build](files/rom/underarmor.nes)
 
-<video src="images/video/demo01.mp4" autoplay loop preload></video>
+<video src="images/video/demo01.mp4" autoplay loop preload type="video/mp4"></video>
 
 ## About the game
 The game is about exploring abyssal mazes. Every game session is unique based on level procedure generation. During the NES era there was no similar game. The main purpose of this project was to apply modern development approaches and gamedev practices to the old-fashioned gaming platform.
