@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Under Armor - Homebrew NES game
 ---
 
