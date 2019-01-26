@@ -6,16 +6,18 @@ title: Under Armor - Homebrew NES game
 # Under Armor
 Homebrew NES game [download current build](files/rom/underarmor.nes)
 
+<!--cut/
 <video autoplay loop preload controls>
 	<source src="images/video/demo.webm" type="video/webm">
 	<source src="images/video/demo.ogv" type="video/ogv">
 	<source src="images/video/demo01.mp4" type="video/mp4">
 </video>
+cut/-->
 
-<video autoplay loop muted poster="images/video/demo.jpg" id="videodemo">
-   <source src="images/video/demo.mp4" type="video/mp4">
-   <source src="images/video/demo.webm" type="video/webm">
-   <source src="images/video/demo.ogv" type="video/ogg">
+<video autoplay loop muted poster="images/video/demo.jpg?v1" id="videodemo">
+   <source src="images/video/demo.mp4?v1" type="video/mp4">
+   <source src="images/video/demo.webm?v1" type="video/webm">
+   <source src="images/video/demo.ogv?v1" type="video/ogg">
 </video>
 
 ## About the game
