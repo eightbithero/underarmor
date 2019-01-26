@@ -12,6 +12,12 @@ Homebrew NES game [download current build](files/rom/underarmor.nes)
 	<source src="images/video/demo01.mp4" type="video/mp4">
 </video>
 
+<video autoplay loop muted poster="images/video/demo.jpg" id="videodemo">
+   <source src="images/video/demo.mp4" type="video/mp4">
+   <source src="images/video/demo.webm" type="video/webm">
+   <source src="images/video/demo.ogv" type="video/ogg">
+</video>
+
 ## About the game
 The game is about exploring abyssal mazes. Every game session is unique based on level procedure generation. During the NES era there was no similar game. The main purpose of this project was to apply modern development approaches and gamedev practices to the old-fashioned gaming platform.
 
